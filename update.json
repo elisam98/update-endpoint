@@ -1,0 +1,17 @@
+{
+response: [
+{
+published: true,
+_id: "5fcde2409d5e369c5799cf4g",
+channel: "retail",
+version: "11",
+datetime: 2036966400,
+device: "X6C6X",
+filename: "system.raw.gz",
+romtype: "RELEASE",
+url: "https://storage.googleapis.com/kosheros-store/updates/system.raw.gz",
+size: 1549512704,
+id: "5fcde2409d5e369c5799cf4g"
+}
+]
+}
