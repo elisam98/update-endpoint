@@ -1,17 +1,7 @@
 {
-response: [
-{
-published: true,
-_id: "5fcde2409d5e369c5799cf4g",
-channel: "retail",
-version: "11",
-datetime: 2036966400,
-device: "X6C6X",
-filename: "system.raw.gz",
-romtype: "RELEASE",
-url: "https://storage.googleapis.com/kosheros-store/updates/system.raw.gz",
-size: 1549512704,
-id: "5fcde2409d5e369c5799cf4g"
-}
-]
+    "version": "v413",
+    "date": "2038247938",
+    "variants": [
+{ "name": "tb_x6c6l-secure", "size": 714228, "url": "https://github.com/phhusson/treble_experimentations/releases/download/v414/system-squeak-arm32_binder64-ab-vndklite-vanilla-secure.img.xz" }
+    ]
 }
