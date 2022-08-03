@@ -2,6 +2,6 @@
     "version": "v413",
     "date": "2038247938",
     "variants": [
-{ "name": "tb_x6c6l-secure", "size": 714228, "url": "https://github.com/phhusson/treble_experimentations/releases/download/v414/system-squeak-arm32_binder64-ab-vndklite-vanilla-secure.img.xz" }
+{ "name": "tb_x6c6l-secure", "size": 999588, "url": "https://github.com/phhusson/treble_experimentations/releases/download/v413/system-squeak-arm64-ab-gapps.img.xz"
     ]
 }
