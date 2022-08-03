@@ -1,7 +1,7 @@
 {
-    "version": "v413",
+    "version": "v413_tst",
     "date": "2038247938",
     "variants": [
-{ "name": "tb_x6c6l-secure", "size": 999588, "url": "https://github.com/phhusson/treble_experimentations/releases/download/v413/system-squeak-arm64-ab-gapps.img.xz"
+{ "name": "tb_x6c6l-secure", "size": 999588, "url": "https://github.com/phhusson/treble_experimentations/releases/download/v413/system-squeak-arm64-ab-gapps.img.xz" }
     ]
 }
