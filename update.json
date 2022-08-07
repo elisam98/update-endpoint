@@ -1,7 +1,7 @@
 {
-    "version": "cocoon",
+    "version": "cocoon2",
     "date": "2038247938",
     "variants": [
-{ "name": "tb_x6c6l-secure", "size": 1275357416, "url": "https://transfer.sh/get/rHogKD/cocoon.img.x" }
+{ "name": "tb_x6c6l-secure", "size": 1275357416, "url": "https://transfer.sh/get/rHogKD/cocoon.img.xz" }
     ]
 }
