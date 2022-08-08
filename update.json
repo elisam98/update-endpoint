@@ -1,7 +1,7 @@
 {
-    "version": "dummy2",
+    "version": "first_ota",
     "date": "2038247938",
     "variants": [
-{ "name": "tb_x6c6l-secure", "size": 1275357416, "url": "https://transfer.sh/get/k0f0Bg/dummy.img.xz" }
+{ "name": "tb_x6c6l-secure", "size": 1275357416, "url": "https://transfer.sh/get/KiWb03/first_ota.img.xz" }
     ]
 }
