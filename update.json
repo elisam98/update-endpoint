@@ -1,7 +1,7 @@
 {
-    "version": "balalaika",
-    "date": "2038247938",
+    "version": "elul",
+    "date": "1663109487",
     "variants": [
-{ "name": "tb_x6c6l-secure", "size": 1267628484, "url": "https://transfer.sh/get/xMUYjo/balalaika.img.xz" }
+{ "name": "tb_x6c6l-secure", "size": 1137952128, "url": "https://storage.googleapis.com/kosheros-store/gsi-updates/elul.img.xz" }
     ]
 }
