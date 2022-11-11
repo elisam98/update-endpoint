@@ -1,7 +1,7 @@
 {
-    "version": "kislev",
-    "date": "1667880478",
+    "version": "kislev2",
+    "date": "1668129619",
     "variants": [
-{ "name": "tb_x6c6l-secure", "size": 1133100608, "url": "https://storage.googleapis.com/kosheros-store/gsi-updates/kislev.img.xz" }
+{ "name": "tb_x6c6l-secure", "size": 1137879032, "url": "https://storage.googleapis.com/kosheros-store/gsi-updates/kislev2.img.xz" }
     ]
 }
